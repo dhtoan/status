@@ -8,7 +8,7 @@ sites:
 status-website:
   cname: status.deployer.org
   logoUrl: https://avatars2.githubusercontent.com/u/8088857?s=200&v=4
-  name: Deployer
+  name: Deployer Status
   navbar:
     - title: Status
       href: /
